@@ -1,0 +1,37 @@
+***********************************************************************************
+			Linked List Dictionary
+***********************************************************************************
+		    	by: Trevor Bird
+***********************************************************************************
+		   	Table of Contents
+
+
+
+01) Installation
+
+02) How to Use
+
+***********************************************************************************
+
+01) 01) 	Installation:
+	
+
+1) Open terminal and use CD command to get to folder containing the files.
+	
+2) Type "make" into the terminal, without quotes.
+
+***********************************************************************************
+
+02) 02) 	How to Use:
+	
+
+1) Open terminal and use CD command to get to folder containing the executable.
+	
+2) type "./Main < data.txt" into the terminal without quotes, where data.txt is 
+	   the file containing the text for the program to use.
+	
+
+Note: if the text file is not in the same folder as the program, the directory
+	to the text file is needed to be typed (example: ./Main<'/home/name/Desktop/data.txt')
+
+***********************************************************************************
